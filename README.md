@@ -1,6 +1,6 @@
 <h3 align="center">.......a fallen sentient existence</h3>
 
-![](https://giffiles.alphacoders.com/215/215948.gif)
+![](https://media0.giphy.com/media/Ti800JSKSsf3eKSs4Z/giphy.gif?cid=ecf05e47r6ympahh8obdudug6iodlvchkho20hw3ybq3j1pb&rid=giphy.gif&ct=s)
 
 Pypi stats:
 
