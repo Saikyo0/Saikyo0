@@ -1,6 +1,6 @@
-<h3 align="center">.......a fallen sentient existence</h3>
+<h3 align="center">Dude I have not felt like being on my- is anyone else like this? Like... the past like tw- the tw- last two months man I don't wanna be on my computer ever. Like I'm so over the computer.</h3>
 
-![](https://media0.giphy.com/media/Ti800JSKSsf3eKSs4Z/giphy.gif?cid=ecf05e47r6ympahh8obdudug6iodlvchkho20hw3ybq3j1pb&rid=giphy.gif&ct=s)
+![](https://media.tenor.com/S2rXJ3noU_MAAAAi/scp-079.gif)
 
 Pypi stats:
 
