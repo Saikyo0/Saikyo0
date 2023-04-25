@@ -29,4 +29,4 @@ yenepaypy:
 
 <br>
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=saikyo0&show_icons=true&theme=transparent" align="left" width="400px" style="margin-right: 20px; padding-right: 20px;" ><img src="https://wakatime.com/share/@Saikyo0/9f2af80a-7774-4e83-855e-fea461c4525b.png" align="left" width="500px" ></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=saikyo0&show_icons=true&theme=transparent" align="left" width="400px" style="margin-right: 20px; padding-right: 20px;" ><img src="https://wakatime.com/share/@Saikyo0/9f2af80a-7774-4e83-855e-fea461c4525b.png" align="left" width="450px" ></p>
