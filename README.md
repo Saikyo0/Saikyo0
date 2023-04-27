@@ -6,7 +6,7 @@
 <p><img src="https://media.tenor.com/S2rXJ3noU_MAAAAi/scp-079.gif" align="left" width="350px" style="margin-right: 20px; padding-right: 20px;"> 
 
 <br>
-╭⊚‿⊚╮╭⊚‿⊚╮╭⊚‿⊚╮╭⊚‿⊚╮╭⊚‿⊚╮╭⊚‿⊚╮
+╭⊚‿⊚╮╭⊚‿⊚╮╭⊚‿⊚╮╭⊚‿⊚╮
 <br>
 </p>
 
@@ -30,4 +30,4 @@ yenepaypy:
 
 <br>
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=saikyo0&show_icons=true&theme=transparent" align="left" width="400px" style="margin-right: 20px; padding-right: 0px;" ><img src="https://wakatime.com/share/@Saikyo0/9f2af80a-7774-4e83-855e-fea461c4525b.png" align="left" width="450px" ></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=saikyo0&show_icons=true&theme=transparent" align="left" width="350px" ><img src="https://wakatime.com/share/@Saikyo0/9f2af80a-7774-4e83-855e-fea461c4525b.png" align="left" width="350px" ></p>
