@@ -26,8 +26,6 @@ yenepaypy:
 
 <br>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=saikyo0&show_icons=true&theme=transparent" align="left" width="350px" >
+<img src="https://github-readme-stats.vercel.app/api?username=saikyo0&show_icons=true&theme=transparent" align="left" width="350px" >
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saikyo0&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saikyo0&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
