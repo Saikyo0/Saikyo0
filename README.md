@@ -8,14 +8,14 @@
 <br>
 </p>
 
-<h3 style="margin-right: 20px;">ALLO!👋<br> I'm probably busy or working on random projects rn, look around or if you want ping me, my socials are right there</h3></p>
+<h3 style="margin-right: 20px;">Hey There!👋<br> look around or ping me, my socials are right there</h3></p>
 
 
 Pypi stats:
 
 yenepaypy:
 
-[![Downloads](https://static.pepy.tech/personalized-badge/yenepaypy?period=total&units=none&left_color=grey&right_color=blue&left_text=downloads)](https://pepy.tech/project/yenepaypy)
+[![Downloads](https://static.pepy.tech/badge/yenepaypy)](https://pepy.tech/project/yenepaypy)
 
 
 <br>
@@ -34,6 +34,6 @@ yenepaypy:
 
 <br>
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=saikyo0&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saikyo0&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Stats](https://github-readme-stats.vercel.app/api?username=saikyo0&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
