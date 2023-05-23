@@ -8,14 +8,13 @@
 <br>
 </p>
 
-<h3 style="margin-right: 20px;">Hey There!👋<br> look around or ping me, my socials are right there</h3></p>
+<h2 style="margin-right: 20px;">Hey There!👋<br> look around or ping me, my socials are right there</h2></p>
 
 
-Pypi stats:
+<h3>Pypi stats:</h3>
 
 yenepaypy:
-
-[![Downloads](https://static.pepy.tech/badge/yenepaypy)](https://pepy.tech/project/yenepaypy)
+[![Downloads](https://static.pepy.tech/personalized-badge/yenepaypy?period=total&units=none&left_color=grey&right_color=blue&left_text=Downloads)](https://pepy.tech/project/yenepaypy)
 
 
 <br>
