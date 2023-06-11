@@ -15,7 +15,7 @@
 
 [![Downloads](https://static.pepy.tech/personalized-badge/yenepaypy?period=total&units=none&left_color=grey&right_color=blue&left_text=YenepayPY)](https://pepy.tech/project/yenepaypy)
 
-[![Downloads](https://static.pepy.tech/personalized-badge/poept?period=total&units=abbreviation&left_color=grey&right_color=blue&left_text=PoePT)](https://pepy.tech/project/poept)
+[![Downloads](https://static.pepy.tech/personalized-badge/poept?period=week&units=none&left_color=grey&right_color=blue&left_text=PoePT)](https://pepy.tech/project/poept)
 
 
 <br>
