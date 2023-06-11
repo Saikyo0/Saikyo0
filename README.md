@@ -12,11 +12,13 @@
 
 
 <h3>Pypi stats:</h3>
-
-[![Downloads](https://static.pepy.tech/personalized-badge/yenepaypy?period=total&units=none&left_color=grey&right_color=blue&left_text=YenepayPY)](https://pepy.tech/project/yenepaypy)
-
-[![Downloads](https://static.pepy.tech/personalized-badge/poept?period=week&units=none&left_color=grey&right_color=blue&left_text=PoePT)](https://pepy.tech/project/poept)
-
+<a href="https://pypi.org/project/yenepaypy">
+<img src="https://static.pepy.tech/personalized-badge/yenepaypy?period=total&units=none&left_color=grey&right_color=blue&left_text=YenepayPY">
+</a>
+<br>
+<a href="https://pypi.org/project/poept">
+<img src="https://static.pepy.tech/personalized-badge/poept?period=total&units=none&left_color=grey&right_color=blue&left_text=PoePT">
+</a>
 
 <br>
 
