@@ -4,11 +4,9 @@
 <p><img src="https://media.tenor.com/S2rXJ3noU_MAAAAi/scp-079.gif" align="left" width="350px" style="margin-right: 20px; padding-right: 20px;"> 
 
 <br>
-╭⊚‿⊚╮╭⊚‿⊚╮╭⊚‿⊚╮╭⊚‿⊚╮
-<br>
 </p>
 
-<h2 style="margin-right: 20px;">Hey There!👋<br> look around or ping me, my socials are right there</h2></p>
+<h2 style="margin-right: 20px;">Hello There!👋<br> look around or ping me, my socials are right there</h2></p>
 
 
 <h3>Pypi stats:</h3>
@@ -19,12 +17,6 @@
 <a href="https://pypi.org/project/poept">
 <img src="https://static.pepy.tech/personalized-badge/poept?period=total&units=none&left_color=grey&right_color=blue&left_text=PoePT">
 </a>
-
-<br>
-
-<br>
-
-<br>
 
 <br>
 
