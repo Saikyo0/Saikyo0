@@ -6,7 +6,7 @@
 <br>
 </p>
 
-<h2 style="margin-right: 20px;">Hello There!👋<br> look around or ping me, my socials are right there</h2></p>
+<h2 style="margin-right: 20px;">Hello There!👋<br></h2></p>
 
 
 <h3>Pypi stats:</h3>
