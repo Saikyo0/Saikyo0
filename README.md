@@ -1,7 +1,7 @@
 ![wakatime](https://wakatime.com/badge/user/55371951-4e93-4e10-8162-234ba1fe4d3e.svg)
 
 
-<p><img src="https://media.tenor.com/S2rXJ3noU_MAAAAi/scp-079.gif" align="left" width="350px" style="margin-right: 20px; padding-right: 20px;"> 
+<p><img src="https://i.giphy.com/media/QeoaF3EcXMyKA/giphy.webp" align="left" width="350px" style="margin-right: 20px; padding-right: 20px;"> 
 
 <br>
 </p>
