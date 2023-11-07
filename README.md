@@ -1,4 +1,4 @@
-![wakatime](https://wakatime.com/badge/user/55371951-4e93-4e10-8162-234ba1fe4d3e.svg)
+![wakatime](https://i.ibb.co/JxWPPwg/wakacuck.png)
 
 
 <p><img src="https://i.giphy.com/media/QeoaF3EcXMyKA/giphy.webp" align="left" width="35%" style="margin-right: 0.2%; padding-right: 0.2%;"> 
