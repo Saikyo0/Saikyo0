@@ -1,7 +1,4 @@
-![wakatime](https://i.ibb.co/JxWPPwg/wakacuck.png)
-
-
-<p><img src="https://i.giphy.com/media/QeoaF3EcXMyKA/giphy.webp" align="left" width="20%" style="margin-right: 0.2%; padding-right: 0.2%;"> </p>
+<p><img src="https://i.giphy.com/media/QeoaF3EcXMyKA/giphy.webp" align="left" width="25%" style="margin-right: 0.2%; padding-right: 0.2%;"> </p>
 
 ```Hello There! 👀```
 
@@ -13,5 +10,5 @@
 / |        | \
 \/|\      /|\/
 
-Creator of wonders, yet plagued by indolence.
+Plagued by indolence.
 ```
