@@ -16,7 +16,7 @@ Plagued by indolence.
 [![Email](https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mamaexus@gmail.com) <br />
 
 <br />
-<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikyo0&hide_progress=true&layout=compact&theme=transparent&text_color=ffffff&title_color=ffffff&icon_color=ffffff&hide_border=true">
+<img align="right" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikyo0&hide_progress=true&theme=transparent&text_color=ffffff&title_color=ffffff&icon_color=ffffff&hide_border=true">
 
 
 🌠 ```Corpo dreams``` <br />
