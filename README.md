@@ -20,11 +20,11 @@ Plagued by indolence.
 
 
 🌠 ```Corpo dreams``` <br />
-👨‍💻 ```20 Years old Developer``` <br />
-📑 ```Still Studying Software on Earth``` <br />
-🚧 **Current Project:** [Reem](https://github.com/Saikyo0/Reem) <br />
+👨‍💻 ```21``` <br />
+📑 ```Still Studying SE at Uni``` <br />
+🚧 **Current Project:** [Reem Suite](https://github.com/Saikyo0/Reem) <br />
 
-✍🏽chao, [saikyo0](https://github.com/saikyo0) <br />
+chao, [saikyo0](https://github.com/saikyo0) <br />
 
 <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=saikyo0&show_icons=true&rank_icon=github&theme=transparent&ring_color=ffffff&text_color=ffffff&title_color=ffffff&icon_color=ffffff&hide_border=true"> <br />
 <img src="https://i.giphy.com/media/QeoaF3EcXMyKA/giphy.webp" align="left">
