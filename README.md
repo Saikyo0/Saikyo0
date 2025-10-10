@@ -8,7 +8,7 @@
 / |        | \
 \/|\      /|\/
 
-Plagued by indolence.
+Plagued by indolence, no more.
 ```
 
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15822465/saikyo0) <br />
