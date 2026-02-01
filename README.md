@@ -18,10 +18,9 @@ Plagued by indolence, no more.
 
 <img src="https://i.giphy.com/media/QeoaF3EcXMyKA/giphy.webp" align="right" width="15%">
 
-🌠 ```Corpo dreams``` <br />
 👨‍💻 ```21``` <br />
-📑 ```Still Studying SE at Uni``` <br />
-🚧 **Current Project:** [Reem Suite](https://github.com/Saikyo0/Reem) <br />
+📑 ```Still Studying SWE at Uni``` <br />
+🚧 **Current Project:** [Gazebo](https://github.com/Saikyo0/Gazebo) <br />
 
 chao, [saikyo0](https://github.com/saikyo0) <br />
 
